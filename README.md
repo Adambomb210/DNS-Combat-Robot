@@ -1,5 +1,5 @@
 # DNS-Combat-Robot
-WIP
+
 A beetleweight forked undercutter.
 <img width="1113" height="699" alt="Screenshot 2026-03-22 211701" src="https://github.com/user-attachments/assets/b30b0a7f-dfa5-4d0d-9fce-2e334620e239" />
 
@@ -42,3 +42,4 @@ Wiring Diagram:
 |Special shoulder bolts (4 pack)              |justcuzrobotics.com/products/blade-mount-bolt-6x8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |$10.00    |1       |$10.00    |
 |Weapon ESC                                   |justcuzrobotics.com/products/tekko32-3s-6s-am32-brushless-esc-soldered                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |$39.00    |1       |$39.00    |
 
+Note: Any custom parts are not included in this estimate. Budget ~$100 for them. Send Cut Send is good for AR500 (forks and weapon), and ok for Titanium (wedge). For carbon fiber, go to Robot Smashing League.
